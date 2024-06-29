@@ -1,0 +1,248 @@
+
+
+i {
+    font-size: 40px;
+    color: navy;
+}
+
+.header {
+    background: white;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vh;
+    color: black;
+}
+
+.bg {
+    background-color: #d4d4d4;
+}
+
+#nome {
+    font-size: larger;
+}
+
+.header a {
+    color: rgb(0, 0, 0);
+}
+
+.menu {
+    display: flex;
+}
+
+li {
+    list-style: none;
+}
+
+.menu li {
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cor2 {
+    font-size: 30px !important;
+    color: black;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.nome3 {
+    font-size: 50px;
+}
+
+#menuToggle {
+    display: none;
+}
+
+.menu-icon {
+    display: none;
+}
+
+.foto {
+    height: 20%;
+    width: 100%;
+}
+
+img {
+    display: block;
+    max-width: 50%;
+
+}
+
+.header p {
+    background: rgb(224, 224, 224);
+}
+
+section .linha {
+    height: 4px;
+    border-radius: 20px;
+}
+
+.person {
+    float: right;
+    font-family: arial;
+}
+
+.bi-star-fill {
+    color: rgb(220, 245, 0);
+}
+
+#foto {
+    min-width: 40%;
+    min-height: auto;
+}
+
+.person2 {
+    color: rgb(27, 166, 212);
+    font-size: 20px;
+}
+
+#descricaoPerfil {
+    font-size: 2.5vh;
+    min-height: min-content;
+    max-height: fit-content;
+}
+
+.bi-star-fill {
+    font-size: 20px;
+}
+
+#cor1 {
+    text-decoration: none;
+    color: black;
+}
+
+
+.repo a {
+    color: rgb(0, 157, 255);
+    text-decoration: none;
+}
+
+.carrossel {
+    color: black;
+}
+
+.carousel-item img {
+    max-height: 70vh;
+    width: 100%;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+#nome1 {
+    color: rgb(0, 157, 255);
+}
+
+.cor {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.colegas {
+    align-content: center;
+}
+
+.colegas img {
+    width: auto;
+    padding: 0 auto;
+}
+
+footer {
+    background-color: rgb(0, 157, 255);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+#legenda {
+    color: rgb(0, 157, 255);
+}
+
+#repoTopicsContainer{
+    margin: 0;
+}
+
+.topico {
+    display: inline-block;
+    background: rgb(0, 157, 255);
+    border-radius: 20px;
+    margin-right: 10px;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    height: 50px;
+    width: auto;
+    margin-bottom: 5px;
+}
+
+h5.nome3 {
+    color: rgb(0, 157, 255);
+    font-size: 30px;
+}
+
+.estrela {
+    font-size: 35px;
+    float: right;
+}
+
+@media screen and (max-width: 1310px) {
+    .perfil1 {
+        height: 300px;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 768px) {
+    img {
+        max-width: 60% !important;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    h5#nome1 {
+        font-size: 30px;
+        margin: 0 auto;
+    }
+
+    p {
+        font-size: large;
+    }
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon{
+    background-color: blue;
+}
+
+.carousel-indicators button{
+    background-color: rgb(83, 0, 69)!important;
+    margin-top: 20px;
+}
+
+.carousel-item{
+    text-align: center;
+}
+.carousel-item {
+    color: red;
+}
+.carousel-caption p{
+    color: white;
+    font-weight: bold;
+    text-shadow: 
+    -2px -2px 0 #000,  
+     2px -2px 0 #000,
+    -2px  2px 0 #000,
+     2px  2px 0 #000;
+}

@@ -1,0 +1,39 @@
+{
+    "Noticias": [
+        {
+            "id": 1,
+            "TituloNoticia": "Ação integrada prende condenado por estupro na área central de Macapá",
+            "DescricaoNoticia": "Prisão foi realizada nesta sexta-feira (28), no bairro do Laguinho através de uma ação integrada entre a Polícia Civil e Polícia Federal.",
+            "ImagemNoticia": "https://s2-g1.glbimg.com/5OLlboIIL3uB2iCgVYCpg2VtDF0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/n/z/X5jAGHT763klowWGTSzw/whatsapp-image-2021-12-16-at-11.00.27.jpeg",
+            "LinkNoticia": "https://g1.globo.com/ap/amapa/noticia/2024/06/29/acao-integrada-prende-condenado-por-estupro-na-area-central-de-macapa.ghtml"
+        },
+        {
+            "id": 2,
+            "TituloNoticia": "Adolescente de MT doa órgãos após falar em escola sobre desejo de ajudar outras pessoas",
+            "DescricaoNoticia": "Familiares e funcionários formaram um corredor humano em frente ao hospital que realizou a captação dos órgãos para homenagear o jovem.",
+            "ImagemNoticia": "https://s2-g1.glbimg.com/jPSO5Qhx8TpYxqQgbL79tosEhxk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/L/T/y7jeu3S2WjB4Wtdjc46g/whatsapp-image-2024-06-29-at-11.04.04.jpeg",
+            "LinkNoticia": "https://g1.globo.com/mt/mato-grosso/noticia/2024/06/29/adolescente-de-mt-doa-orgaos-apos-falar-em-escola-sobre-desejo-de-ajudar-outras-pessoas.ghtml"
+        },
+        {
+            "id": 3,
+            "TituloNoticia": "Canadá busca 15 mil estrangeiros para trabalhar como cuidadores com residência permanente",
+            "DescricaoNoticia": "O governo canadense anunciou neste sábado (29) programa para apoiar estrangeiros que trabalham cuidando de idosos e crianças no país. A iniciativa prevê a possibilidade de visto para residência permanente, caso o imigrante cumpra com requisitos determinados pelo Departamento de Imigração, Refugiados e Cidadania do Canadá (IRCC, na sigla em inglês).",
+            "ImagemNoticia": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/canada-day-5370627_1280.jpg?w=1220&h=674&crop=1",
+            "LinkNoticia": "https://www.cnnbrasil.com.br/economia/macroeconomia/canada-anuncia-programa-para-apoiar-cuidadores-e-familias-canadenses-e-pretende-tornar-o-programa-de-cuidadores-permanente/"
+        },
+        {
+            "id": 4,
+            "TituloNoticia": "Justiça cancela suspensão do livro “O Menino Marrom” de escolas em MG",
+            "DescricaoNoticia": "O Tribunal de Justiça de Minas Gerais determinou na última quinta-feira (27) o cancelamento imediato da suspensão das atividades envolvendo o livro “O Menino Marrom”, de Ziraldo, das escolas de Conselheiro Lafaiete, região central de Minas Gerais",
+            "ImagemNoticia": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/Inserir-um-titulo-65.jpg?w=1220&h=674&crop=1",
+            "LinkNoticia": "https://www.cnnbrasil.com.br/nacional/justica-cancela-suspensao-do-livro-o-menino-marrom-de-escolas-em-mg/"
+        },
+        {
+            "id": 5,
+            "TituloNoticia": "Ucrânia diz ter destruído centro de comunicação espacial russo na Crimeia",
+            "DescricaoNoticia": "O Ministério da Defesa da Ucrânia disse nesta sexta-feira (28) que os militares ucranianos destruíram o centro de comunicação espacial russo na Crimeia ocupada por Moscou em um ataque nesta semana.",
+            "ImagemNoticia": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/09/IMGUCRA.png?w=652&h=343&crop=1",
+            "LinkNoticia": "https://www.cnnbrasil.com.br/internacional/ucrania-diz-ter-destruido-centro-de-comunicacao-espacial-russo-na-crimeia/"
+        }
+    ]
+}
